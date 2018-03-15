@@ -1,0 +1,1 @@
+Shift + Tab - opens documentation on a mehod where mouse cursor is located
